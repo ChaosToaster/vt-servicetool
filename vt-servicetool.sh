@@ -32,7 +32,7 @@ echo ""
                                                 LTS3)
                                                 ;;
                                                 zurück)
-                                                    echo "Zurück zfu Betriebssysteme"; break
+                                                    echo "Zurück zu Betriebssysteme"; break
                                                 ;;
                                             esac
                                         done
