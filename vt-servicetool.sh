@@ -10,7 +10,7 @@
 
 PS3='Willkommen im Hauptmenü. Wähle eine Kategorie: '
 echo ""
-echo "Mit ENTER könnt Ihr das Menu erneut aufrufen, um zugucken, in welchem ihr euch befindet."
+echo "Mit ENTER könnt Ihr das Menu erneut aufrufen, umgfgf zugucken, in welchem ihr euch befindet."
 echo ""
 echo "--- HAUPTMENÜ ---"
 echo ""
